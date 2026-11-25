@@ -137,4 +137,4 @@ The project generates a cleaned CSV dataset, a data quality report, three visual
 
 
 - GitHub: [https://github.com/eman-hn](https://github.com/eman-hn)
-- LinkedIn: [www.linkedin.com/in/eman-haider-s13e13](www.linkedin.com/in/eman-haider-s13e13)
+- LinkedIn: [https://www.linkedin.com/in/eman-haider-s13e13](https://www.linkedin.com/in/eman-haider-s13e13)
